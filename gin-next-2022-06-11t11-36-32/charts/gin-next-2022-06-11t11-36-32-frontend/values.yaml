@@ -14,7 +14,7 @@ image:
   repository: ghcr.io/heigliner-robot/gin-next-2022-06-11t11-36-32-frontend
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "main"
+  tag: "a41308d"
 imagePullSecrets:
   - name: gin-next-2022-06-11t11-36-32
 nameOverride: ""

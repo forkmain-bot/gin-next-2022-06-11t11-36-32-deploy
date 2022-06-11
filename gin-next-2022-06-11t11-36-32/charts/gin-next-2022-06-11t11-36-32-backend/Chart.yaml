@@ -1,0 +1,6 @@
+apiVersion: v2
+appVersion: 0.1.0
+description: A Helm chart for Kubernetes
+name: gin-next-2022-06-11t11-36-32-backend
+type: application
+version: 0.1.0
